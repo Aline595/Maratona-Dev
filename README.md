@@ -7,4 +7,4 @@ O DOE e um site que conecta pessoas dispostas a doar sangue com quem necessita d
 
 Para executar será preciso instalar:
 
--Node.js
+- Node.js
