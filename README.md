@@ -9,3 +9,5 @@ Projeto realizado através da maratona dev - Rocketseat
 Para executar será preciso instalar:
 
 - Node.js
+
+![doe](https://user-images.githubusercontent.com/56769013/82491874-a8d03280-9abb-11ea-8750-aba4c8989641.png)
